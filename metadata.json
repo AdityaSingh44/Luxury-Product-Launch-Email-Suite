@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Luxury Product Launch Email",
+  "description": "Exquisite responsive HTML/CSS email template and interactive design studio for luxury product launches with multi-device previews, client personalization, and production HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
